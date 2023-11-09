@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Adirne</h1>
+<h1 align="center">Hello there 👋, I'm Adrien</h1>
 <h3 align="center">Just your average BSC IT Student.</h3>
 
 
