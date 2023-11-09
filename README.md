@@ -1,5 +1,8 @@
-### Hi there 👋, I'm Adrien.
-## Just your average BSC IT student.
+<h1 align="center">Hello there 👋, I'm Adirne</h1>
+<h3 align="center">Just your average BSC IT Student.</h3>
+
+
+
 
 <!--
 **Adrienlkh19/Adrienlkh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
