@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Adrien</h1>
-<h3 align="center">Just your average BSC IT Student.</h3>
+<h3 align="center">Just your average BSC IT graduate.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
